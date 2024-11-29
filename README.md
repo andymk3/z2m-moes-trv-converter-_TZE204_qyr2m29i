@@ -29,4 +29,8 @@ WARNING: This is a work in progress, thus has limited funcitonality at present.
 - Mode
 
 ## Usage
-Copy moes_valve_ZTRV801.js to your zigbee2mqtt root folder. Edit your zigbee2mqtt configuration.yaml file and add ``external_converters:`` with the path of the file.
+Copy moes_valve_ZTRV801.js to your zigbee2mqtt root folder. Edit your zigbee2mqtt configuration.yaml file and add:
+```
+external_converters:
+    - moes_valve_ZTRV801.js
+```
