@@ -1,7 +1,7 @@
 # z2m-moes-trv-converter-_TZE204_qyr2m29i
 Moes ZTRV-801 Converter for Zigbee Manufacuter _TZE204_qyr2m29i
 
-WARNING: This is a work in progress, thus has limited funcitonality at present. 
+WARNING: This is a work in progress, thus has limited functionality at present. 
 
 ![image](https://github.com/user-attachments/assets/952f3613-4806-4040-bf60-98d2595804c3)
 
@@ -20,7 +20,7 @@ WARNING: This is a work in progress, thus has limited funcitonality at present.
 - Preset
 - Window (Switch)
 - Window Detection
-- Battery
+- Battery Status
 - Alarm Switch
 - Daily Schedule (Currently Removed for Simplicity)
 - Min Temperature
